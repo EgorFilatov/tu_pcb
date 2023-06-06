@@ -1,0 +1,294 @@
+Change Footprint: Footprint Not Found LTV-357
+Change Footprint: Footprint Not Found LTV-357
+Change Footprint: Footprint Not Found KLS2-301R-5.00-02P-2S (DG301R-5.0-02P-12)
+Change Footprint: Footprint Not Found 74HC595
+Change Footprint: Footprint Not Found 74HC595
+Change Footprint: Footprint Not Found AM1D-1212SH
+Change Footprint: Footprint Not Found CD74HC
+Change Footprint: Footprint Not Found LTV-357
+Added Component: Designator=C1(CAP: 2220)
+Add component (AddParameter): Name = "Help URL"; Value = "https://ru.mouser.com/ProductDetail/KEMET/C2220C106K3RACTU?qs=AiEy7T%252BpANdh8MDp0HivKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF, 25V, X7R"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 2220)
+Add component (AddParameter): Name = "Help URL"; Value = "https://ru.mouser.com/ProductDetail/KEMET/C2220C106K3RACTU?qs=AiEy7T%252BpANdh8MDp0HivKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF, 25V, X7R"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found DRB-37F
+Added Component: Designator=XP3(DS1118-32M-R23)
+Add component (AddParameter): Name = "Analogue"; Value = "HARTING 09221326951(https://eu.mouser.com/ProductDetail/HARTING/09221326951?qs=Afqhj6cPmO9f0oVZo6yWiA%3D%3D)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://en.connfly.group/static/upload/file/pdf/DS1118.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/din41612r-ds1118-32m-r23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12V_CLEAR Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=C10-2
+Added Pin To Net: NetName=GPIO_TU_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R5-1
+Added Pin To Net: NetName=NetPS1_2 Pin=R5-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-2
+Add Pin To Net: Unknown Pin: Pin U15-3
+Add Pin To Net: Unknown Pin: Pin U15-4
+Add Pin To Net: Unknown Pin: Pin U34-5
+Add Pin To Net: Unknown Pin: Pin U34-6
+Add Pin To Net: Unknown Pin: Pin U34-7
+Add Pin To Net: Unknown Pin: Pin U34-8
+Add Pin To Net: Unknown Pin: Pin U34-9
+Add Pin To Net: Unknown Pin: Pin U34-10
+Add Pin To Net: Unknown Pin: Pin U34-11
+Add Pin To Net: Unknown Pin: Pin U34-12
+Add Pin To Net: Unknown Pin: Pin U34-13
+Add Pin To Net: Unknown Pin: Pin U34-14
+Add Pin To Net: Unknown Pin: Pin U34-15
+Add Pin To Net: Unknown Pin: Pin U34-16
+Add Pin To Net: Unknown Pin: Pin U34-17
+Add Pin To Net: Unknown Pin: Pin U34-18
+Add Pin To Net: Unknown Pin: Pin U34-19
+Add Pin To Net: Unknown Pin: Pin U34-20
+Add Pin To Net: Unknown Pin: Pin U34-21
+Add Pin To Net: Unknown Pin: Pin U34-22
+Add Pin To Net: Unknown Pin: Pin U34-23
+Add Pin To Net: Unknown Pin: Pin U34-24
+Add Pin To Net: Unknown Pin: Pin U35-5
+Add Pin To Net: Unknown Pin: Pin U35-6
+Add Pin To Net: Unknown Pin: Pin U35-7
+Add Pin To Net: Unknown Pin: Pin U35-8
+Add Pin To Net: Unknown Pin: Pin U35-10
+Add Pin To Net: Unknown Pin: Pin U35-11
+Add Pin To Net: Unknown Pin: Pin U35-12
+Add Pin To Net: Unknown Pin: Pin U35-13
+Add Pin To Net: Unknown Pin: Pin U35-14
+Add Pin To Net: Unknown Pin: Pin U35-15
+Add Pin To Net: Unknown Pin: Pin U35-16
+Add Pin To Net: Unknown Pin: Pin U36-5
+Add Pin To Net: Unknown Pin: Pin U36-6
+Add Pin To Net: Unknown Pin: Pin U36-7
+Add Pin To Net: Unknown Pin: Pin U36-8
+Add Pin To Net: Unknown Pin: Pin U36-10
+Add Pin To Net: Unknown Pin: Pin U36-11
+Add Pin To Net: Unknown Pin: Pin U36-12
+Add Pin To Net: Unknown Pin: Pin U36-13
+Add Pin To Net: Unknown Pin: Pin U36-14
+Add Pin To Net: Unknown Pin: Pin U36-15
+Add Pin To Net: Unknown Pin: Pin U36-16
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD4-1
+Add Pin To Net: Unknown Pin: Pin VD4-2
+Add Pin To Net: Unknown Pin: Pin VD5-1
+Add Pin To Net: Unknown Pin: Pin VD5-2
+Add Pin To Net: Unknown Pin: Pin VD6-1
+Add Pin To Net: Unknown Pin: Pin VD6-2
+Add Pin To Net: Unknown Pin: Pin VD7-1
+Add Pin To Net: Unknown Pin: Pin VD7-2
+Add Pin To Net: Unknown Pin: Pin VD8-1
+Add Pin To Net: Unknown Pin: Pin VD8-2
+Add Pin To Net: Unknown Pin: Pin VD9-1
+Add Pin To Net: Unknown Pin: Pin VD9-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD12-1
+Add Pin To Net: Unknown Pin: Pin VD12-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Add Pin To Net: Unknown Pin: Pin VD15-1
+Add Pin To Net: Unknown Pin: Pin VD15-2
+Add Pin To Net: Unknown Pin: Pin VD16-1
+Add Pin To Net: Unknown Pin: Pin VD16-2
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Add Pin To Net: Unknown Pin: Pin XP1-16
+Add Pin To Net: Unknown Pin: Pin XP1-17
+Add Pin To Net: Unknown Pin: Pin XP1-18
+Add Pin To Net: Unknown Pin: Pin XP1-20
+Add Pin To Net: Unknown Pin: Pin XP1-21
+Add Pin To Net: Unknown Pin: Pin XP1-22
+Add Pin To Net: Unknown Pin: Pin XP1-23
+Add Pin To Net: Unknown Pin: Pin XP1-24
+Add Pin To Net: Unknown Pin: Pin XP1-25
+Add Pin To Net: Unknown Pin: Pin XP1-26
+Add Pin To Net: Unknown Pin: Pin XP1-27
+Add Pin To Net: Unknown Pin: Pin XP1-28
+Add Pin To Net: Unknown Pin: Pin XP1-29
+Add Pin To Net: Unknown Pin: Pin XP1-30
+Add Pin To Net: Unknown Pin: Pin XP1-31
+Add Pin To Net: Unknown Pin: Pin XP1-32
+Add Pin To Net: Unknown Pin: Pin XP1-33
+Add Pin To Net: Unknown Pin: Pin XP1-34
+Add Pin To Net: Unknown Pin: Pin XP1-35
+Add Pin To Net: Unknown Pin: Pin XP1-36
+Add Pin To Net: Unknown Pin: Pin XP1-37
+Added Pin To Net: NetName=SPI2_NSS Pin=XP3-1
+Added Pin To Net: NetName=SPI2_MOSI Pin=XP3-2
+Added Pin To Net: NetName=SPI2_MISO Pin=XP3-3
+Added Pin To Net: NetName=SPI2_SCK Pin=XP3-4
+Added Pin To Net: NetName=GND Pin=XP3-9
+Added Pin To Net: NetName=GND Pin=XP3-10
+Added Pin To Net: NetName=+5V Pin=XP3-11
+Added Pin To Net: NetName=+5V Pin=XP3-12
+Added Pin To Net: NetName=GND_12V Pin=XP3-13
+Added Pin To Net: NetName=GND_12V Pin=XP3-14
+Added Pin To Net: NetName=+12V Pin=XP3-15
+Added Pin To Net: NetName=+12V Pin=XP3-16
+Added Pin To Net: NetName=+12V Pin=XP3-17
+Added Pin To Net: NetName=+12V Pin=XP3-18
+Added Pin To Net: NetName=GND_12V Pin=XP3-19
+Added Pin To Net: NetName=GND_12V Pin=XP3-20
+Added Pin To Net: NetName=+5V Pin=XP3-21
+Added Pin To Net: NetName=+5V Pin=XP3-22
+Added Pin To Net: NetName=GND Pin=XP3-23
+Added Pin To Net: NetName=GND Pin=XP3-24
+Added Pin To Net: NetName=SPI2_SCK Pin=XP3-29
+Added Pin To Net: NetName=SPI2_MISO Pin=XP3-30
+Added Pin To Net: NetName=SPI2_MOSI Pin=XP3-31
+Added Pin To Net: NetName=SPI2_NSS Pin=XP3-32
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component C1
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component C2
+Added Member To Class: ClassName=U_TU_PWR Member=Component C8 Cap_0603
+Added Member To Class: ClassName=U_TU_PWR Member=Component C9 Cap_0603
+Added Member To Class: ClassName=U_TU_PWR Member=Component C10 Cap_0603
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R1
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R2
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R3
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R4
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R5
+Add Class Member: Failed to add class member : Component U2 LTV-357
+Add Class Member: Failed to add class member : Component U15 LTV-357
+Add Class Member: Failed to add class member : Component VD1 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD2 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD3 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD4 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD5 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD6 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD7 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD8 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD9 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD10 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD11 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD12 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD13 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD14 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD15 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD16 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component XP1 DRB-37F
+Added Member To Class: ClassName=U_TU_PWR Member=Component XP3 DS1118-32M-R23

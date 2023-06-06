@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TU_MAIN.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=TU_MAIN.SchDoc|Designator=U_TU_ADV_SCH|SchDesignator=U_TU_ADV_SCH|FileName=TU_ADV_SCH.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=TU_ADV_SCH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TU_MAIN.SchDoc|Designator=U_TU_MCU|SchDesignator=U_TU_MCU|FileName=TU_MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=TU_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TU_MAIN.SchDoc|Designator=U_TU_PWR|SchDesignator=U_TU_PWR|FileName=TU_PWR.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=TU_PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

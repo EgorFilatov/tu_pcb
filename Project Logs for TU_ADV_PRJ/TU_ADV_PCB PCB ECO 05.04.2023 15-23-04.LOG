@@ -1,0 +1,1774 @@
+Added Component: Designator=C1(CAP: 2220)
+Add component (AddParameter): Name = "Help URL"; Value = "https://ru.mouser.com/ProductDetail/KEMET/C2220C106K3RACTU?qs=AiEy7T%252BpANdh8MDp0HivKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF, 25V, X7R"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 2220)
+Add component (AddParameter): Name = "Help URL"; Value = "https://ru.mouser.com/ProductDetail/KEMET/C2220C106K3RACTU?qs=AiEy7T%252BpANdh8MDp0HivKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF, 25V, X7R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Added Component: Designator=R1(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R61(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R63(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R64(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R65(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R66(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R67(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R68(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R69(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R71(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R72(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R73(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R74(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R75(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R76(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R77(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R78(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R79(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R80(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R81(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R82(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R83(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R84(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R85(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R86(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R87(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R88(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R89(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R90(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R91(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R92(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R93(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R94(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R95(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R96(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R97(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R98(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R99(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R100(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R101(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R102(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R103(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R104(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R105(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R106(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R107(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R108(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R109(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R110(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R111(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R112(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R113(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R114(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R115(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R116(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R117(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R118(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R119(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R120(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R121(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R122(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R123(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R124(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R125(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R126(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R127(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R128(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R129(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R130(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R131(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R132(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R133(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R134(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R135(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R136(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R137(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R138(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R139(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R140(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R141(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R142(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R143(RES: 2512)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000190147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R144(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R145(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R146(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R147(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R148(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found AM1D-1212SH
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found CD74HC
+Add Component: Footprint Not Found 74HC595
+Add Component: Footprint Not Found 74HC595
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found DRB-37F
+Add Component: Footprint Not Found KLS2-301R-5.00-02P-2S (DG301R-5.0-02P-12)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12V_CLEAR Pin=C2-2
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS3-1
+Add Pin To Net: Unknown Pin: Pin PS3-2
+Add Pin To Net: Unknown Pin: Pin PS4-1
+Add Pin To Net: Unknown Pin: Pin PS4-2
+Add Pin To Net: Unknown Pin: Pin PS5-1
+Add Pin To Net: Unknown Pin: Pin PS5-2
+Add Pin To Net: Unknown Pin: Pin PS6-1
+Add Pin To Net: Unknown Pin: Pin PS6-2
+Add Pin To Net: Unknown Pin: Pin PS7-1
+Add Pin To Net: Unknown Pin: Pin PS7-2
+Add Pin To Net: Unknown Pin: Pin PS8-1
+Add Pin To Net: Unknown Pin: Pin PS8-2
+Add Pin To Net: Unknown Pin: Pin PS9-1
+Add Pin To Net: Unknown Pin: Pin PS9-2
+Add Pin To Net: Unknown Pin: Pin PS10-1
+Add Pin To Net: Unknown Pin: Pin PS10-2
+Add Pin To Net: Unknown Pin: Pin PS11-1
+Add Pin To Net: Unknown Pin: Pin PS11-2
+Add Pin To Net: Unknown Pin: Pin PS12-1
+Add Pin To Net: Unknown Pin: Pin PS12-2
+Add Pin To Net: Unknown Pin: Pin PS13-1
+Add Pin To Net: Unknown Pin: Pin PS13-2
+Add Pin To Net: Unknown Pin: Pin PS14-1
+Add Pin To Net: Unknown Pin: Pin PS14-2
+Add Pin To Net: Unknown Pin: Pin PS15-1
+Add Pin To Net: Unknown Pin: Pin PS15-2
+Add Pin To Net: Unknown Pin: Pin PS16-1
+Add Pin To Net: Unknown Pin: Pin PS16-2
+Added Pin To Net: NetName=GPIO_TU_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R5-1
+Added Pin To Net: NetName=NetPS1_2 Pin=R5-2
+Added Pin To Net: NetName=GPIO_TU_2 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R10-1
+Added Pin To Net: NetName=NetPS2_2 Pin=R10-2
+Added Pin To Net: NetName=GPIO_TU_3 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetR12_1 Pin=R14-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R15-1
+Added Pin To Net: NetName=NetPS3_2 Pin=R15-2
+Added Pin To Net: NetName=GPIO_TU_4 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetR17_1 Pin=R19-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R20-1
+Added Pin To Net: NetName=NetPS4_2 Pin=R20-2
+Added Pin To Net: NetName=GPIO_TU_5 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetR22_1 Pin=R24-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R25-1
+Added Pin To Net: NetName=NetPS5_2 Pin=R25-2
+Added Pin To Net: NetName=GPIO_TU_6 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=NetR27_1 Pin=R29-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R30-1
+Added Pin To Net: NetName=NetPS6_2 Pin=R30-2
+Added Pin To Net: NetName=GPIO_TU_7 Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetR32_1 Pin=R34-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R35-1
+Added Pin To Net: NetName=NetPS7_2 Pin=R35-2
+Added Pin To Net: NetName=GPIO_TU_8 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=NetR37_1 Pin=R39-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R40-1
+Added Pin To Net: NetName=NetPS8_2 Pin=R40-2
+Added Pin To Net: NetName=GPIO_TU_9 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=NetR42_1 Pin=R44-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R45-1
+Added Pin To Net: NetName=NetPS9_2 Pin=R45-2
+Added Pin To Net: NetName=GPIO_TU_10 Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R46-2
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=NetR47_1 Pin=R49-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R50-1
+Added Pin To Net: NetName=NetPS10_2 Pin=R50-2
+Added Pin To Net: NetName=GPIO_TU_11 Pin=R51-1
+Added Pin To Net: NetName=GND Pin=R51-2
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=GND Pin=R54-1
+Added Pin To Net: NetName=NetR52_1 Pin=R54-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R55-1
+Added Pin To Net: NetName=NetPS11_2 Pin=R55-2
+Added Pin To Net: NetName=GPIO_TU_12 Pin=R56-1
+Added Pin To Net: NetName=GND Pin=R56-2
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=GND Pin=R59-1
+Added Pin To Net: NetName=NetR57_1 Pin=R59-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R60-1
+Added Pin To Net: NetName=NetPS12_2 Pin=R60-2
+Added Pin To Net: NetName=GPIO_TU_13 Pin=R61-1
+Added Pin To Net: NetName=GND Pin=R61-2
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=NetR62_1 Pin=R64-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R65-1
+Added Pin To Net: NetName=NetPS13_2 Pin=R65-2
+Added Pin To Net: NetName=GPIO_TU_14 Pin=R66-1
+Added Pin To Net: NetName=GND Pin=R66-2
+Added Pin To Net: NetName=NetR67_1 Pin=R67-1
+Added Pin To Net: NetName=NetR67_2 Pin=R67-2
+Added Pin To Net: NetName=GND Pin=R68-1
+Added Pin To Net: NetName=NetR68_2 Pin=R68-2
+Added Pin To Net: NetName=GND Pin=R69-1
+Added Pin To Net: NetName=NetR67_1 Pin=R69-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R70-1
+Added Pin To Net: NetName=NetPS14_2 Pin=R70-2
+Added Pin To Net: NetName=GPIO_TU_15 Pin=R71-1
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Added Pin To Net: NetName=NetR72_2 Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-1
+Added Pin To Net: NetName=NetR73_2 Pin=R73-2
+Added Pin To Net: NetName=GND Pin=R74-1
+Added Pin To Net: NetName=NetR72_1 Pin=R74-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R75-1
+Added Pin To Net: NetName=NetPS15_2 Pin=R75-2
+Added Pin To Net: NetName=GPIO_TU_16 Pin=R76-1
+Added Pin To Net: NetName=GND Pin=R76-2
+Added Pin To Net: NetName=NetR77_1 Pin=R77-1
+Added Pin To Net: NetName=NetR77_2 Pin=R77-2
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=NetR78_2 Pin=R78-2
+Added Pin To Net: NetName=GND Pin=R79-1
+Added Pin To Net: NetName=NetR77_1 Pin=R79-2
+Added Pin To Net: NetName=+12V_CLEAR Pin=R80-1
+Added Pin To Net: NetName=NetPS16_2 Pin=R80-2
+Added Pin To Net: NetName=NetR81_1 Pin=R81-1
+Added Pin To Net: NetName=E.GND1 Pin=R81-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R82-1
+Added Pin To Net: NetName=I0 Pin=R82-2
+Added Pin To Net: NetName=IDI_0 Pin=R83-1
+Added Pin To Net: NetName=NetR83_2 Pin=R83-2
+Added Pin To Net: NetName=NetR81_1 Pin=R84-1
+Added Pin To Net: NetName=NetR83_2 Pin=R84-2
+Added Pin To Net: NetName=NetR85_1 Pin=R85-1
+Added Pin To Net: NetName=E.GND1 Pin=R85-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R86-1
+Added Pin To Net: NetName=I1 Pin=R86-2
+Added Pin To Net: NetName=IDI_1 Pin=R87-1
+Added Pin To Net: NetName=NetR87_2 Pin=R87-2
+Added Pin To Net: NetName=NetR85_1 Pin=R88-1
+Added Pin To Net: NetName=NetR87_2 Pin=R88-2
+Added Pin To Net: NetName=NetR89_1 Pin=R89-1
+Added Pin To Net: NetName=E.GND1 Pin=R89-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R90-1
+Added Pin To Net: NetName=I2 Pin=R90-2
+Added Pin To Net: NetName=IDI_2 Pin=R91-1
+Added Pin To Net: NetName=NetR91_2 Pin=R91-2
+Added Pin To Net: NetName=NetR89_1 Pin=R92-1
+Added Pin To Net: NetName=NetR91_2 Pin=R92-2
+Added Pin To Net: NetName=NetR93_1 Pin=R93-1
+Added Pin To Net: NetName=E.GND1 Pin=R93-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R94-1
+Added Pin To Net: NetName=I3 Pin=R94-2
+Added Pin To Net: NetName=IDI_3 Pin=R95-1
+Added Pin To Net: NetName=NetR95_2 Pin=R95-2
+Added Pin To Net: NetName=NetR93_1 Pin=R96-1
+Added Pin To Net: NetName=NetR95_2 Pin=R96-2
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=E.GND1 Pin=R97-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R98-1
+Added Pin To Net: NetName=I4 Pin=R98-2
+Added Pin To Net: NetName=IDI_4 Pin=R99-1
+Added Pin To Net: NetName=NetR99_2 Pin=R99-2
+Added Pin To Net: NetName=NetR97_1 Pin=R100-1
+Added Pin To Net: NetName=NetR99_2 Pin=R100-2
+Added Pin To Net: NetName=NetR101_1 Pin=R101-1
+Added Pin To Net: NetName=E.GND1 Pin=R101-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R102-1
+Added Pin To Net: NetName=I5 Pin=R102-2
+Added Pin To Net: NetName=IDI_5 Pin=R103-1
+Added Pin To Net: NetName=NetR103_2 Pin=R103-2
+Added Pin To Net: NetName=NetR101_1 Pin=R104-1
+Added Pin To Net: NetName=NetR103_2 Pin=R104-2
+Added Pin To Net: NetName=NetR105_1 Pin=R105-1
+Added Pin To Net: NetName=E.GND1 Pin=R105-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R106-1
+Added Pin To Net: NetName=I6 Pin=R106-2
+Added Pin To Net: NetName=IDI_6 Pin=R107-1
+Added Pin To Net: NetName=NetR107_2 Pin=R107-2
+Added Pin To Net: NetName=NetR105_1 Pin=R108-1
+Added Pin To Net: NetName=NetR107_2 Pin=R108-2
+Added Pin To Net: NetName=NetR109_1 Pin=R109-1
+Added Pin To Net: NetName=E.GND1 Pin=R109-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R110-1
+Added Pin To Net: NetName=I7 Pin=R110-2
+Added Pin To Net: NetName=IDI_7 Pin=R111-1
+Added Pin To Net: NetName=NetR111_2 Pin=R111-2
+Added Pin To Net: NetName=NetR109_1 Pin=R112-1
+Added Pin To Net: NetName=NetR111_2 Pin=R112-2
+Added Pin To Net: NetName=NetR113_1 Pin=R113-1
+Added Pin To Net: NetName=E.GND2 Pin=R113-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R114-1
+Added Pin To Net: NetName=I8 Pin=R114-2
+Added Pin To Net: NetName=IDI_8 Pin=R115-1
+Added Pin To Net: NetName=NetR115_2 Pin=R115-2
+Added Pin To Net: NetName=NetR113_1 Pin=R116-1
+Added Pin To Net: NetName=NetR115_2 Pin=R116-2
+Added Pin To Net: NetName=NetR117_1 Pin=R117-1
+Added Pin To Net: NetName=E.GND2 Pin=R117-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R118-1
+Added Pin To Net: NetName=I9 Pin=R118-2
+Added Pin To Net: NetName=IDI_9 Pin=R119-1
+Added Pin To Net: NetName=NetR119_2 Pin=R119-2
+Added Pin To Net: NetName=NetR117_1 Pin=R120-1
+Added Pin To Net: NetName=NetR119_2 Pin=R120-2
+Added Pin To Net: NetName=NetR121_1 Pin=R121-1
+Added Pin To Net: NetName=E.GND2 Pin=R121-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R122-1
+Added Pin To Net: NetName=I10 Pin=R122-2
+Added Pin To Net: NetName=IDI_10 Pin=R123-1
+Added Pin To Net: NetName=NetR123_2 Pin=R123-2
+Added Pin To Net: NetName=NetR121_1 Pin=R124-1
+Added Pin To Net: NetName=NetR123_2 Pin=R124-2
+Added Pin To Net: NetName=NetR125_1 Pin=R125-1
+Added Pin To Net: NetName=E.GND2 Pin=R125-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R126-1
+Added Pin To Net: NetName=I11 Pin=R126-2
+Added Pin To Net: NetName=IDI_11 Pin=R127-1
+Added Pin To Net: NetName=NetR127_2 Pin=R127-2
+Added Pin To Net: NetName=NetR125_1 Pin=R128-1
+Added Pin To Net: NetName=NetR127_2 Pin=R128-2
+Added Pin To Net: NetName=NetR129_1 Pin=R129-1
+Added Pin To Net: NetName=E.GND2 Pin=R129-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R130-1
+Added Pin To Net: NetName=I12 Pin=R130-2
+Added Pin To Net: NetName=IDI_12 Pin=R131-1
+Added Pin To Net: NetName=NetR131_2 Pin=R131-2
+Added Pin To Net: NetName=NetR129_1 Pin=R132-1
+Added Pin To Net: NetName=NetR131_2 Pin=R132-2
+Added Pin To Net: NetName=NetR133_1 Pin=R133-1
+Added Pin To Net: NetName=E.GND2 Pin=R133-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R134-1
+Added Pin To Net: NetName=I13 Pin=R134-2
+Added Pin To Net: NetName=IDI_13 Pin=R135-1
+Added Pin To Net: NetName=NetR135_2 Pin=R135-2
+Added Pin To Net: NetName=NetR133_1 Pin=R136-1
+Added Pin To Net: NetName=NetR135_2 Pin=R136-2
+Added Pin To Net: NetName=NetR137_1 Pin=R137-1
+Added Pin To Net: NetName=E.GND2 Pin=R137-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R138-1
+Added Pin To Net: NetName=I14 Pin=R138-2
+Added Pin To Net: NetName=IDI_14 Pin=R139-1
+Added Pin To Net: NetName=NetR139_2 Pin=R139-2
+Added Pin To Net: NetName=NetR137_1 Pin=R140-1
+Added Pin To Net: NetName=NetR139_2 Pin=R140-2
+Added Pin To Net: NetName=NetR141_1 Pin=R141-1
+Added Pin To Net: NetName=E.GND2 Pin=R141-2
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=R142-1
+Added Pin To Net: NetName=I15 Pin=R142-2
+Added Pin To Net: NetName=IDI_15 Pin=R143-1
+Added Pin To Net: NetName=NetR143_2 Pin=R143-2
+Added Pin To Net: NetName=NetR141_1 Pin=R144-1
+Added Pin To Net: NetName=NetR143_2 Pin=R144-2
+Added Pin To Net: NetName=GND Pin=R145-1
+Added Pin To Net: NetName=NetR145_2 Pin=R145-2
+Added Pin To Net: NetName=GND Pin=R146-1
+Added Pin To Net: NetName=NetR146_2 Pin=R146-2
+Added Pin To Net: NetName=GND Pin=R147-1
+Added Pin To Net: NetName=SPI1_SCK Pin=R147-2
+Added Pin To Net: NetName=GND Pin=R148-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=R148-2
+Add Pin To Net: Unknown Pin: Pin TVS1-1
+Add Pin To Net: Unknown Pin: Pin TVS1-2
+Add Pin To Net: Unknown Pin: Pin TVS2-1
+Add Pin To Net: Unknown Pin: Pin TVS2-2
+Add Pin To Net: Unknown Pin: Pin TVS3-1
+Add Pin To Net: Unknown Pin: Pin TVS3-2
+Add Pin To Net: Unknown Pin: Pin TVS4-1
+Add Pin To Net: Unknown Pin: Pin TVS4-2
+Add Pin To Net: Unknown Pin: Pin TVS5-1
+Add Pin To Net: Unknown Pin: Pin TVS5-2
+Add Pin To Net: Unknown Pin: Pin TVS6-1
+Add Pin To Net: Unknown Pin: Pin TVS6-2
+Add Pin To Net: Unknown Pin: Pin TVS7-1
+Add Pin To Net: Unknown Pin: Pin TVS7-2
+Add Pin To Net: Unknown Pin: Pin TVS8-1
+Add Pin To Net: Unknown Pin: Pin TVS8-2
+Add Pin To Net: Unknown Pin: Pin TVS9-1
+Add Pin To Net: Unknown Pin: Pin TVS9-2
+Add Pin To Net: Unknown Pin: Pin TVS10-1
+Add Pin To Net: Unknown Pin: Pin TVS10-2
+Add Pin To Net: Unknown Pin: Pin TVS11-1
+Add Pin To Net: Unknown Pin: Pin TVS11-2
+Add Pin To Net: Unknown Pin: Pin TVS12-1
+Add Pin To Net: Unknown Pin: Pin TVS12-2
+Add Pin To Net: Unknown Pin: Pin TVS13-1
+Add Pin To Net: Unknown Pin: Pin TVS13-2
+Add Pin To Net: Unknown Pin: Pin TVS14-1
+Add Pin To Net: Unknown Pin: Pin TVS14-2
+Add Pin To Net: Unknown Pin: Pin TVS15-1
+Add Pin To Net: Unknown Pin: Pin TVS15-2
+Add Pin To Net: Unknown Pin: Pin TVS16-1
+Add Pin To Net: Unknown Pin: Pin TVS16-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-4
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-2
+Add Pin To Net: Unknown Pin: Pin U15-3
+Add Pin To Net: Unknown Pin: Pin U15-4
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-3
+Add Pin To Net: Unknown Pin: Pin U16-4
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Add Pin To Net: Unknown Pin: Pin U18-1
+Add Pin To Net: Unknown Pin: Pin U18-2
+Add Pin To Net: Unknown Pin: Pin U18-3
+Add Pin To Net: Unknown Pin: Pin U18-4
+Add Pin To Net: Unknown Pin: Pin U19-1
+Add Pin To Net: Unknown Pin: Pin U19-2
+Add Pin To Net: Unknown Pin: Pin U19-3
+Add Pin To Net: Unknown Pin: Pin U19-4
+Add Pin To Net: Unknown Pin: Pin U20-1
+Add Pin To Net: Unknown Pin: Pin U20-2
+Add Pin To Net: Unknown Pin: Pin U20-3
+Add Pin To Net: Unknown Pin: Pin U20-4
+Add Pin To Net: Unknown Pin: Pin U21-1
+Add Pin To Net: Unknown Pin: Pin U21-2
+Add Pin To Net: Unknown Pin: Pin U21-3
+Add Pin To Net: Unknown Pin: Pin U21-4
+Add Pin To Net: Unknown Pin: Pin U22-1
+Add Pin To Net: Unknown Pin: Pin U22-2
+Add Pin To Net: Unknown Pin: Pin U22-3
+Add Pin To Net: Unknown Pin: Pin U22-4
+Add Pin To Net: Unknown Pin: Pin U23-1
+Add Pin To Net: Unknown Pin: Pin U23-2
+Add Pin To Net: Unknown Pin: Pin U23-3
+Add Pin To Net: Unknown Pin: Pin U23-4
+Add Pin To Net: Unknown Pin: Pin U24-1
+Add Pin To Net: Unknown Pin: Pin U24-2
+Add Pin To Net: Unknown Pin: Pin U24-3
+Add Pin To Net: Unknown Pin: Pin U24-4
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U29-1
+Add Pin To Net: Unknown Pin: Pin U29-2
+Add Pin To Net: Unknown Pin: Pin U29-3
+Add Pin To Net: Unknown Pin: Pin U29-4
+Add Pin To Net: Unknown Pin: Pin U30-1
+Add Pin To Net: Unknown Pin: Pin U30-2
+Add Pin To Net: Unknown Pin: Pin U30-3
+Add Pin To Net: Unknown Pin: Pin U30-4
+Add Pin To Net: Unknown Pin: Pin U31-1
+Add Pin To Net: Unknown Pin: Pin U31-2
+Add Pin To Net: Unknown Pin: Pin U31-3
+Add Pin To Net: Unknown Pin: Pin U31-4
+Add Pin To Net: Unknown Pin: Pin U32-1
+Add Pin To Net: Unknown Pin: Pin U32-2
+Add Pin To Net: Unknown Pin: Pin U32-3
+Add Pin To Net: Unknown Pin: Pin U32-4
+Add Pin To Net: Unknown Pin: Pin U33-1
+Add Pin To Net: Unknown Pin: Pin U33-2
+Add Pin To Net: Unknown Pin: Pin U33-3
+Add Pin To Net: Unknown Pin: Pin U33-4
+Add Pin To Net: Unknown Pin: Pin U34-1
+Add Pin To Net: Unknown Pin: Pin U34-2
+Add Pin To Net: Unknown Pin: Pin U34-3
+Add Pin To Net: Unknown Pin: Pin U34-4
+Add Pin To Net: Unknown Pin: Pin U34-5
+Add Pin To Net: Unknown Pin: Pin U34-6
+Add Pin To Net: Unknown Pin: Pin U34-7
+Add Pin To Net: Unknown Pin: Pin U34-8
+Add Pin To Net: Unknown Pin: Pin U34-9
+Add Pin To Net: Unknown Pin: Pin U34-10
+Add Pin To Net: Unknown Pin: Pin U34-11
+Add Pin To Net: Unknown Pin: Pin U34-12
+Add Pin To Net: Unknown Pin: Pin U34-13
+Add Pin To Net: Unknown Pin: Pin U34-14
+Add Pin To Net: Unknown Pin: Pin U34-15
+Add Pin To Net: Unknown Pin: Pin U34-16
+Add Pin To Net: Unknown Pin: Pin U34-17
+Add Pin To Net: Unknown Pin: Pin U34-18
+Add Pin To Net: Unknown Pin: Pin U34-19
+Add Pin To Net: Unknown Pin: Pin U34-20
+Add Pin To Net: Unknown Pin: Pin U34-21
+Add Pin To Net: Unknown Pin: Pin U34-22
+Add Pin To Net: Unknown Pin: Pin U34-23
+Add Pin To Net: Unknown Pin: Pin U34-24
+Add Pin To Net: Unknown Pin: Pin U35-1
+Add Pin To Net: Unknown Pin: Pin U35-2
+Add Pin To Net: Unknown Pin: Pin U35-3
+Add Pin To Net: Unknown Pin: Pin U35-4
+Add Pin To Net: Unknown Pin: Pin U35-5
+Add Pin To Net: Unknown Pin: Pin U35-6
+Add Pin To Net: Unknown Pin: Pin U35-7
+Add Pin To Net: Unknown Pin: Pin U35-8
+Add Pin To Net: Unknown Pin: Pin U35-10
+Add Pin To Net: Unknown Pin: Pin U35-11
+Add Pin To Net: Unknown Pin: Pin U35-12
+Add Pin To Net: Unknown Pin: Pin U35-13
+Add Pin To Net: Unknown Pin: Pin U35-14
+Add Pin To Net: Unknown Pin: Pin U35-15
+Add Pin To Net: Unknown Pin: Pin U35-16
+Add Pin To Net: Unknown Pin: Pin U36-1
+Add Pin To Net: Unknown Pin: Pin U36-2
+Add Pin To Net: Unknown Pin: Pin U36-3
+Add Pin To Net: Unknown Pin: Pin U36-4
+Add Pin To Net: Unknown Pin: Pin U36-5
+Add Pin To Net: Unknown Pin: Pin U36-6
+Add Pin To Net: Unknown Pin: Pin U36-7
+Add Pin To Net: Unknown Pin: Pin U36-8
+Add Pin To Net: Unknown Pin: Pin U36-10
+Add Pin To Net: Unknown Pin: Pin U36-11
+Add Pin To Net: Unknown Pin: Pin U36-12
+Add Pin To Net: Unknown Pin: Pin U36-13
+Add Pin To Net: Unknown Pin: Pin U36-14
+Add Pin To Net: Unknown Pin: Pin U36-15
+Add Pin To Net: Unknown Pin: Pin U36-16
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD4-1
+Add Pin To Net: Unknown Pin: Pin VD4-2
+Add Pin To Net: Unknown Pin: Pin VD5-1
+Add Pin To Net: Unknown Pin: Pin VD5-2
+Add Pin To Net: Unknown Pin: Pin VD6-1
+Add Pin To Net: Unknown Pin: Pin VD6-2
+Add Pin To Net: Unknown Pin: Pin VD7-1
+Add Pin To Net: Unknown Pin: Pin VD7-2
+Add Pin To Net: Unknown Pin: Pin VD8-1
+Add Pin To Net: Unknown Pin: Pin VD8-2
+Add Pin To Net: Unknown Pin: Pin VD9-1
+Add Pin To Net: Unknown Pin: Pin VD9-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD12-1
+Add Pin To Net: Unknown Pin: Pin VD12-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Add Pin To Net: Unknown Pin: Pin VD15-1
+Add Pin To Net: Unknown Pin: Pin VD15-2
+Add Pin To Net: Unknown Pin: Pin VD16-1
+Add Pin To Net: Unknown Pin: Pin VD16-2
+Add Pin To Net: Unknown Pin: Pin VT1-1
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Add Pin To Net: Unknown Pin: Pin VT1-3
+Add Pin To Net: Unknown Pin: Pin VT2-1
+Add Pin To Net: Unknown Pin: Pin VT2-2
+Add Pin To Net: Unknown Pin: Pin VT2-3
+Add Pin To Net: Unknown Pin: Pin VT3-1
+Add Pin To Net: Unknown Pin: Pin VT3-2
+Add Pin To Net: Unknown Pin: Pin VT3-3
+Add Pin To Net: Unknown Pin: Pin VT4-1
+Add Pin To Net: Unknown Pin: Pin VT4-2
+Add Pin To Net: Unknown Pin: Pin VT4-3
+Add Pin To Net: Unknown Pin: Pin VT5-1
+Add Pin To Net: Unknown Pin: Pin VT5-2
+Add Pin To Net: Unknown Pin: Pin VT5-3
+Add Pin To Net: Unknown Pin: Pin VT6-1
+Add Pin To Net: Unknown Pin: Pin VT6-2
+Add Pin To Net: Unknown Pin: Pin VT6-3
+Add Pin To Net: Unknown Pin: Pin VT7-1
+Add Pin To Net: Unknown Pin: Pin VT7-2
+Add Pin To Net: Unknown Pin: Pin VT7-3
+Add Pin To Net: Unknown Pin: Pin VT8-1
+Add Pin To Net: Unknown Pin: Pin VT8-2
+Add Pin To Net: Unknown Pin: Pin VT8-3
+Add Pin To Net: Unknown Pin: Pin VT9-1
+Add Pin To Net: Unknown Pin: Pin VT9-2
+Add Pin To Net: Unknown Pin: Pin VT9-3
+Add Pin To Net: Unknown Pin: Pin VT10-1
+Add Pin To Net: Unknown Pin: Pin VT10-2
+Add Pin To Net: Unknown Pin: Pin VT10-3
+Add Pin To Net: Unknown Pin: Pin VT11-1
+Add Pin To Net: Unknown Pin: Pin VT11-2
+Add Pin To Net: Unknown Pin: Pin VT11-3
+Add Pin To Net: Unknown Pin: Pin VT12-1
+Add Pin To Net: Unknown Pin: Pin VT12-2
+Add Pin To Net: Unknown Pin: Pin VT12-3
+Add Pin To Net: Unknown Pin: Pin VT13-1
+Add Pin To Net: Unknown Pin: Pin VT13-2
+Add Pin To Net: Unknown Pin: Pin VT13-3
+Add Pin To Net: Unknown Pin: Pin VT14-1
+Add Pin To Net: Unknown Pin: Pin VT14-2
+Add Pin To Net: Unknown Pin: Pin VT14-3
+Add Pin To Net: Unknown Pin: Pin VT15-1
+Add Pin To Net: Unknown Pin: Pin VT15-2
+Add Pin To Net: Unknown Pin: Pin VT15-3
+Add Pin To Net: Unknown Pin: Pin VT16-1
+Add Pin To Net: Unknown Pin: Pin VT16-2
+Add Pin To Net: Unknown Pin: Pin VT16-3
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Add Pin To Net: Unknown Pin: Pin XP1-16
+Add Pin To Net: Unknown Pin: Pin XP1-17
+Add Pin To Net: Unknown Pin: Pin XP1-18
+Add Pin To Net: Unknown Pin: Pin XP1-20
+Add Pin To Net: Unknown Pin: Pin XP1-21
+Add Pin To Net: Unknown Pin: Pin XP1-22
+Add Pin To Net: Unknown Pin: Pin XP1-23
+Add Pin To Net: Unknown Pin: Pin XP1-24
+Add Pin To Net: Unknown Pin: Pin XP1-25
+Add Pin To Net: Unknown Pin: Pin XP1-26
+Add Pin To Net: Unknown Pin: Pin XP1-27
+Add Pin To Net: Unknown Pin: Pin XP1-28
+Add Pin To Net: Unknown Pin: Pin XP1-29
+Add Pin To Net: Unknown Pin: Pin XP1-30
+Add Pin To Net: Unknown Pin: Pin XP1-31
+Add Pin To Net: Unknown Pin: Pin XP1-32
+Add Pin To Net: Unknown Pin: Pin XP1-33
+Add Pin To Net: Unknown Pin: Pin XP1-34
+Add Pin To Net: Unknown Pin: Pin XP1-35
+Add Pin To Net: Unknown Pin: Pin XP1-36
+Add Pin To Net: Unknown Pin: Pin XP1-37
+Add Pin To Net: Unknown Pin: Pin XP2-1
+Add Pin To Net: Unknown Pin: Pin XP2-2
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component C1
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component C2
+Add Class Member: Failed to add class member : Component PS1 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS2 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS3 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS4 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS5 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS6 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS7 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS8 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS9 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS10 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS11 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS12 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS13 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS14 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS15 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS16 MF-SMDF050-2
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R1
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R2
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R3
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R4
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R5
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R6
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R7
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R8
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R9
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R10
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R11
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R12
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R13
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R14
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R15
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R16
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R17
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R18
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R19
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R20
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R21
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R22
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R23
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R24
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R25
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R26
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R27
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R28
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R29
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R30
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R31
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R32
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R33
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R34
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R35
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R36
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R37
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R38
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R39
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R40
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R41
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R42
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R43
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R44
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R45
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R46
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R47
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R48
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R49
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R50
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R51
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R52
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R53
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R54
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R55
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R56
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R57
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R58
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R59
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R60
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R61
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R62
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R63
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R64
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R65
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R66
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R67
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R68
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R69
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R70
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R71
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R72
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R73
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R74
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R75
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R76
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R77
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R78
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R79
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R80
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R81
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R82
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R83
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R84
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R85
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R86
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R87
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R88
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R89
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R90
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R91
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R92
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R93
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R94
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R95
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R96
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R97
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R98
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R99
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R100
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R101
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R102
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R103
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R104
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R105
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R106
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R107
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R108
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R109
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R110
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R111
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R112
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R113
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R114
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R115
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R116
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R117
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R118
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R119
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R120
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R121
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R122
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R123
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R124
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R125
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R126
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R127
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R128
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R129
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R130
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R131
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R132
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R133
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R134
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R135
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R136
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R137
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R138
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R139
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R140
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R141
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R142
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R143
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R144
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R145
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R146
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R147
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component R148
+Add Class Member: Failed to add class member : Component TVS1 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS2 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS3 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS4 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS5 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS6 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS7 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS8 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS9 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS10 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS11 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS12 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS13 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS14 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS15 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS16 SMBJ16A
+Add Class Member: Failed to add class member : Component U1 LTV-357
+Add Class Member: Failed to add class member : Component U2 LTV-357
+Add Class Member: Failed to add class member : Component U3 LTV-357
+Add Class Member: Failed to add class member : Component U4 LTV-357
+Add Class Member: Failed to add class member : Component U5 LTV-357
+Add Class Member: Failed to add class member : Component U6 LTV-357
+Add Class Member: Failed to add class member : Component U7 LTV-357
+Add Class Member: Failed to add class member : Component U8 LTV-357
+Add Class Member: Failed to add class member : Component U9 LTV-357
+Add Class Member: Failed to add class member : Component U10 LTV-357
+Add Class Member: Failed to add class member : Component U11 LTV-357
+Add Class Member: Failed to add class member : Component U12 LTV-357
+Add Class Member: Failed to add class member : Component U13 LTV-357
+Add Class Member: Failed to add class member : Component U14 LTV-357
+Add Class Member: Failed to add class member : Component U15 LTV-357
+Add Class Member: Failed to add class member : Component U16 LTV-357
+Add Class Member: Failed to add class member : Component U17 AM1D-1212SH
+Add Class Member: Failed to add class member : Component U18 LTV-357
+Add Class Member: Failed to add class member : Component U19 LTV-357
+Add Class Member: Failed to add class member : Component U20 LTV-357
+Add Class Member: Failed to add class member : Component U21 LTV-357
+Add Class Member: Failed to add class member : Component U22 LTV-357
+Add Class Member: Failed to add class member : Component U23 LTV-357
+Add Class Member: Failed to add class member : Component U24 LTV-357
+Add Class Member: Failed to add class member : Component U25 LTV-357
+Add Class Member: Failed to add class member : Component U26 LTV-357
+Add Class Member: Failed to add class member : Component U27 LTV-357
+Add Class Member: Failed to add class member : Component U28 LTV-357
+Add Class Member: Failed to add class member : Component U29 LTV-357
+Add Class Member: Failed to add class member : Component U30 LTV-357
+Add Class Member: Failed to add class member : Component U31 LTV-357
+Add Class Member: Failed to add class member : Component U32 LTV-357
+Add Class Member: Failed to add class member : Component U33 LTV-357
+Add Class Member: Failed to add class member : Component U34 CD74HC
+Add Class Member: Failed to add class member : Component U35 74HC595
+Add Class Member: Failed to add class member : Component U36 74HC595
+Add Class Member: Failed to add class member : Component VD1 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD2 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD3 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD4 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD5 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD6 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD7 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD8 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD9 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD10 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD11 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD12 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD13 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD14 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD15 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD16 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VT1 NX7002
+Add Class Member: Failed to add class member : Component VT2 NX7002
+Add Class Member: Failed to add class member : Component VT3 NX7002
+Add Class Member: Failed to add class member : Component VT4 NX7002
+Add Class Member: Failed to add class member : Component VT5 NX7002
+Add Class Member: Failed to add class member : Component VT6 NX7002
+Add Class Member: Failed to add class member : Component VT7 NX7002
+Add Class Member: Failed to add class member : Component VT8 NX7002
+Add Class Member: Failed to add class member : Component VT9 NX7002
+Add Class Member: Failed to add class member : Component VT10 NX7002
+Add Class Member: Failed to add class member : Component VT11 NX7002
+Add Class Member: Failed to add class member : Component VT12 NX7002
+Add Class Member: Failed to add class member : Component VT13 NX7002
+Add Class Member: Failed to add class member : Component VT14 NX7002
+Add Class Member: Failed to add class member : Component VT15 NX7002
+Add Class Member: Failed to add class member : Component VT16 NX7002
+Add Class Member: Failed to add class member : Component XP1 DRB-37F
+Add Class Member: Failed to add class member : Component XP2 KLS2-301R-5.00-02P-2S (DG301R-5.0-02P-12)
+Added Room: Name=U_TU_ADV_SCH
+Added Room: Name=U_TU_MCU
+Added Room: Name=U_TU_PWR

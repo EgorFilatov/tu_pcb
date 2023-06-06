@@ -1,0 +1,578 @@
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found MF-SMDF050-2
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found AM1D-1212SH
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found CD74HC
+Add Component: Footprint Not Found 74HC595
+Add Component: Footprint Not Found 74HC595
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found CG0603MLC-24LEA
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Added Component: Designator=XP1(DRB-37FA(DS1037-37F))
+Add component (AddParameter): Name = "Analogue"; Value = "HARTING 09221326951(https://eu.mouser.com/ProductDetail/HARTING/09221326951?qs=Afqhj6cPmO9f0oVZo6yWiA%3D%3D)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://en.connfly.group/static/upload/file/pdf/DS1118.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/din41612r-ds1118-32m-r23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found KLS2-301R-5.00-02P-2S (DG301R-5.0-02P-12)
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS3-1
+Add Pin To Net: Unknown Pin: Pin PS3-2
+Add Pin To Net: Unknown Pin: Pin PS4-1
+Add Pin To Net: Unknown Pin: Pin PS4-2
+Add Pin To Net: Unknown Pin: Pin PS5-1
+Add Pin To Net: Unknown Pin: Pin PS5-2
+Add Pin To Net: Unknown Pin: Pin PS6-1
+Add Pin To Net: Unknown Pin: Pin PS6-2
+Add Pin To Net: Unknown Pin: Pin PS7-1
+Add Pin To Net: Unknown Pin: Pin PS7-2
+Add Pin To Net: Unknown Pin: Pin PS8-1
+Add Pin To Net: Unknown Pin: Pin PS8-2
+Add Pin To Net: Unknown Pin: Pin PS9-1
+Add Pin To Net: Unknown Pin: Pin PS9-2
+Add Pin To Net: Unknown Pin: Pin PS10-1
+Add Pin To Net: Unknown Pin: Pin PS10-2
+Add Pin To Net: Unknown Pin: Pin PS11-1
+Add Pin To Net: Unknown Pin: Pin PS11-2
+Add Pin To Net: Unknown Pin: Pin PS12-1
+Add Pin To Net: Unknown Pin: Pin PS12-2
+Add Pin To Net: Unknown Pin: Pin PS13-1
+Add Pin To Net: Unknown Pin: Pin PS13-2
+Add Pin To Net: Unknown Pin: Pin PS14-1
+Add Pin To Net: Unknown Pin: Pin PS14-2
+Add Pin To Net: Unknown Pin: Pin PS15-1
+Add Pin To Net: Unknown Pin: Pin PS15-2
+Add Pin To Net: Unknown Pin: Pin PS16-1
+Add Pin To Net: Unknown Pin: Pin PS16-2
+Add Pin To Net: Unknown Pin: Pin TVS1-1
+Add Pin To Net: Unknown Pin: Pin TVS1-2
+Add Pin To Net: Unknown Pin: Pin TVS2-1
+Add Pin To Net: Unknown Pin: Pin TVS2-2
+Add Pin To Net: Unknown Pin: Pin TVS3-1
+Add Pin To Net: Unknown Pin: Pin TVS3-2
+Add Pin To Net: Unknown Pin: Pin TVS4-1
+Add Pin To Net: Unknown Pin: Pin TVS4-2
+Add Pin To Net: Unknown Pin: Pin TVS5-1
+Add Pin To Net: Unknown Pin: Pin TVS5-2
+Add Pin To Net: Unknown Pin: Pin TVS6-1
+Add Pin To Net: Unknown Pin: Pin TVS6-2
+Add Pin To Net: Unknown Pin: Pin TVS7-1
+Add Pin To Net: Unknown Pin: Pin TVS7-2
+Add Pin To Net: Unknown Pin: Pin TVS8-1
+Add Pin To Net: Unknown Pin: Pin TVS8-2
+Add Pin To Net: Unknown Pin: Pin TVS9-1
+Add Pin To Net: Unknown Pin: Pin TVS9-2
+Add Pin To Net: Unknown Pin: Pin TVS10-1
+Add Pin To Net: Unknown Pin: Pin TVS10-2
+Add Pin To Net: Unknown Pin: Pin TVS11-1
+Add Pin To Net: Unknown Pin: Pin TVS11-2
+Add Pin To Net: Unknown Pin: Pin TVS12-1
+Add Pin To Net: Unknown Pin: Pin TVS12-2
+Add Pin To Net: Unknown Pin: Pin TVS13-1
+Add Pin To Net: Unknown Pin: Pin TVS13-2
+Add Pin To Net: Unknown Pin: Pin TVS14-1
+Add Pin To Net: Unknown Pin: Pin TVS14-2
+Add Pin To Net: Unknown Pin: Pin TVS15-1
+Add Pin To Net: Unknown Pin: Pin TVS15-2
+Add Pin To Net: Unknown Pin: Pin TVS16-1
+Add Pin To Net: Unknown Pin: Pin TVS16-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-4
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-2
+Add Pin To Net: Unknown Pin: Pin U15-3
+Add Pin To Net: Unknown Pin: Pin U15-4
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-3
+Add Pin To Net: Unknown Pin: Pin U16-4
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Add Pin To Net: Unknown Pin: Pin U18-1
+Add Pin To Net: Unknown Pin: Pin U18-2
+Add Pin To Net: Unknown Pin: Pin U18-3
+Add Pin To Net: Unknown Pin: Pin U18-4
+Add Pin To Net: Unknown Pin: Pin U19-1
+Add Pin To Net: Unknown Pin: Pin U19-2
+Add Pin To Net: Unknown Pin: Pin U19-3
+Add Pin To Net: Unknown Pin: Pin U19-4
+Add Pin To Net: Unknown Pin: Pin U20-1
+Add Pin To Net: Unknown Pin: Pin U20-2
+Add Pin To Net: Unknown Pin: Pin U20-3
+Add Pin To Net: Unknown Pin: Pin U20-4
+Add Pin To Net: Unknown Pin: Pin U21-1
+Add Pin To Net: Unknown Pin: Pin U21-2
+Add Pin To Net: Unknown Pin: Pin U21-3
+Add Pin To Net: Unknown Pin: Pin U21-4
+Add Pin To Net: Unknown Pin: Pin U22-1
+Add Pin To Net: Unknown Pin: Pin U22-2
+Add Pin To Net: Unknown Pin: Pin U22-3
+Add Pin To Net: Unknown Pin: Pin U22-4
+Add Pin To Net: Unknown Pin: Pin U23-1
+Add Pin To Net: Unknown Pin: Pin U23-2
+Add Pin To Net: Unknown Pin: Pin U23-3
+Add Pin To Net: Unknown Pin: Pin U23-4
+Add Pin To Net: Unknown Pin: Pin U24-1
+Add Pin To Net: Unknown Pin: Pin U24-2
+Add Pin To Net: Unknown Pin: Pin U24-3
+Add Pin To Net: Unknown Pin: Pin U24-4
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U29-1
+Add Pin To Net: Unknown Pin: Pin U29-2
+Add Pin To Net: Unknown Pin: Pin U29-3
+Add Pin To Net: Unknown Pin: Pin U29-4
+Add Pin To Net: Unknown Pin: Pin U30-1
+Add Pin To Net: Unknown Pin: Pin U30-2
+Add Pin To Net: Unknown Pin: Pin U30-3
+Add Pin To Net: Unknown Pin: Pin U30-4
+Add Pin To Net: Unknown Pin: Pin U31-1
+Add Pin To Net: Unknown Pin: Pin U31-2
+Add Pin To Net: Unknown Pin: Pin U31-3
+Add Pin To Net: Unknown Pin: Pin U31-4
+Add Pin To Net: Unknown Pin: Pin U32-1
+Add Pin To Net: Unknown Pin: Pin U32-2
+Add Pin To Net: Unknown Pin: Pin U32-3
+Add Pin To Net: Unknown Pin: Pin U32-4
+Add Pin To Net: Unknown Pin: Pin U33-1
+Add Pin To Net: Unknown Pin: Pin U33-2
+Add Pin To Net: Unknown Pin: Pin U33-3
+Add Pin To Net: Unknown Pin: Pin U33-4
+Add Pin To Net: Unknown Pin: Pin U34-1
+Add Pin To Net: Unknown Pin: Pin U34-2
+Add Pin To Net: Unknown Pin: Pin U34-3
+Add Pin To Net: Unknown Pin: Pin U34-4
+Add Pin To Net: Unknown Pin: Pin U34-5
+Add Pin To Net: Unknown Pin: Pin U34-6
+Add Pin To Net: Unknown Pin: Pin U34-7
+Add Pin To Net: Unknown Pin: Pin U34-8
+Add Pin To Net: Unknown Pin: Pin U34-9
+Add Pin To Net: Unknown Pin: Pin U34-10
+Add Pin To Net: Unknown Pin: Pin U34-11
+Add Pin To Net: Unknown Pin: Pin U34-12
+Add Pin To Net: Unknown Pin: Pin U34-13
+Add Pin To Net: Unknown Pin: Pin U34-14
+Add Pin To Net: Unknown Pin: Pin U34-15
+Add Pin To Net: Unknown Pin: Pin U34-16
+Add Pin To Net: Unknown Pin: Pin U34-17
+Add Pin To Net: Unknown Pin: Pin U34-18
+Add Pin To Net: Unknown Pin: Pin U34-19
+Add Pin To Net: Unknown Pin: Pin U34-20
+Add Pin To Net: Unknown Pin: Pin U34-21
+Add Pin To Net: Unknown Pin: Pin U34-22
+Add Pin To Net: Unknown Pin: Pin U34-23
+Add Pin To Net: Unknown Pin: Pin U34-24
+Add Pin To Net: Unknown Pin: Pin U35-1
+Add Pin To Net: Unknown Pin: Pin U35-2
+Add Pin To Net: Unknown Pin: Pin U35-3
+Add Pin To Net: Unknown Pin: Pin U35-4
+Add Pin To Net: Unknown Pin: Pin U35-5
+Add Pin To Net: Unknown Pin: Pin U35-6
+Add Pin To Net: Unknown Pin: Pin U35-7
+Add Pin To Net: Unknown Pin: Pin U35-8
+Add Pin To Net: Unknown Pin: Pin U35-10
+Add Pin To Net: Unknown Pin: Pin U35-11
+Add Pin To Net: Unknown Pin: Pin U35-12
+Add Pin To Net: Unknown Pin: Pin U35-13
+Add Pin To Net: Unknown Pin: Pin U35-14
+Add Pin To Net: Unknown Pin: Pin U35-15
+Add Pin To Net: Unknown Pin: Pin U35-16
+Add Pin To Net: Unknown Pin: Pin U36-1
+Add Pin To Net: Unknown Pin: Pin U36-2
+Add Pin To Net: Unknown Pin: Pin U36-3
+Add Pin To Net: Unknown Pin: Pin U36-4
+Add Pin To Net: Unknown Pin: Pin U36-5
+Add Pin To Net: Unknown Pin: Pin U36-6
+Add Pin To Net: Unknown Pin: Pin U36-7
+Add Pin To Net: Unknown Pin: Pin U36-8
+Add Pin To Net: Unknown Pin: Pin U36-10
+Add Pin To Net: Unknown Pin: Pin U36-11
+Add Pin To Net: Unknown Pin: Pin U36-12
+Add Pin To Net: Unknown Pin: Pin U36-13
+Add Pin To Net: Unknown Pin: Pin U36-14
+Add Pin To Net: Unknown Pin: Pin U36-15
+Add Pin To Net: Unknown Pin: Pin U36-16
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD4-1
+Add Pin To Net: Unknown Pin: Pin VD4-2
+Add Pin To Net: Unknown Pin: Pin VD5-1
+Add Pin To Net: Unknown Pin: Pin VD5-2
+Add Pin To Net: Unknown Pin: Pin VD6-1
+Add Pin To Net: Unknown Pin: Pin VD6-2
+Add Pin To Net: Unknown Pin: Pin VD7-1
+Add Pin To Net: Unknown Pin: Pin VD7-2
+Add Pin To Net: Unknown Pin: Pin VD8-1
+Add Pin To Net: Unknown Pin: Pin VD8-2
+Add Pin To Net: Unknown Pin: Pin VD9-1
+Add Pin To Net: Unknown Pin: Pin VD9-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD12-1
+Add Pin To Net: Unknown Pin: Pin VD12-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Add Pin To Net: Unknown Pin: Pin VD15-1
+Add Pin To Net: Unknown Pin: Pin VD15-2
+Add Pin To Net: Unknown Pin: Pin VD16-1
+Add Pin To Net: Unknown Pin: Pin VD16-2
+Add Pin To Net: Unknown Pin: Pin VT1-1
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Add Pin To Net: Unknown Pin: Pin VT1-3
+Add Pin To Net: Unknown Pin: Pin VT2-1
+Add Pin To Net: Unknown Pin: Pin VT2-2
+Add Pin To Net: Unknown Pin: Pin VT2-3
+Add Pin To Net: Unknown Pin: Pin VT3-1
+Add Pin To Net: Unknown Pin: Pin VT3-2
+Add Pin To Net: Unknown Pin: Pin VT3-3
+Add Pin To Net: Unknown Pin: Pin VT4-1
+Add Pin To Net: Unknown Pin: Pin VT4-2
+Add Pin To Net: Unknown Pin: Pin VT4-3
+Add Pin To Net: Unknown Pin: Pin VT5-1
+Add Pin To Net: Unknown Pin: Pin VT5-2
+Add Pin To Net: Unknown Pin: Pin VT5-3
+Add Pin To Net: Unknown Pin: Pin VT6-1
+Add Pin To Net: Unknown Pin: Pin VT6-2
+Add Pin To Net: Unknown Pin: Pin VT6-3
+Add Pin To Net: Unknown Pin: Pin VT7-1
+Add Pin To Net: Unknown Pin: Pin VT7-2
+Add Pin To Net: Unknown Pin: Pin VT7-3
+Add Pin To Net: Unknown Pin: Pin VT8-1
+Add Pin To Net: Unknown Pin: Pin VT8-2
+Add Pin To Net: Unknown Pin: Pin VT8-3
+Add Pin To Net: Unknown Pin: Pin VT9-1
+Add Pin To Net: Unknown Pin: Pin VT9-2
+Add Pin To Net: Unknown Pin: Pin VT9-3
+Add Pin To Net: Unknown Pin: Pin VT10-1
+Add Pin To Net: Unknown Pin: Pin VT10-2
+Add Pin To Net: Unknown Pin: Pin VT10-3
+Add Pin To Net: Unknown Pin: Pin VT11-1
+Add Pin To Net: Unknown Pin: Pin VT11-2
+Add Pin To Net: Unknown Pin: Pin VT11-3
+Add Pin To Net: Unknown Pin: Pin VT12-1
+Add Pin To Net: Unknown Pin: Pin VT12-2
+Add Pin To Net: Unknown Pin: Pin VT12-3
+Add Pin To Net: Unknown Pin: Pin VT13-1
+Add Pin To Net: Unknown Pin: Pin VT13-2
+Add Pin To Net: Unknown Pin: Pin VT13-3
+Add Pin To Net: Unknown Pin: Pin VT14-1
+Add Pin To Net: Unknown Pin: Pin VT14-2
+Add Pin To Net: Unknown Pin: Pin VT14-3
+Add Pin To Net: Unknown Pin: Pin VT15-1
+Add Pin To Net: Unknown Pin: Pin VT15-2
+Add Pin To Net: Unknown Pin: Pin VT15-3
+Add Pin To Net: Unknown Pin: Pin VT16-1
+Add Pin To Net: Unknown Pin: Pin VT16-2
+Add Pin To Net: Unknown Pin: Pin VT16-3
+Added Pin To Net: NetName=IDI_0 Pin=XP1-1
+Added Pin To Net: NetName=IDI_2 Pin=XP1-2
+Added Pin To Net: NetName=IDI_4 Pin=XP1-3
+Added Pin To Net: NetName=IDI_6 Pin=XP1-4
+Added Pin To Net: NetName=IDI_8 Pin=XP1-5
+Added Pin To Net: NetName=IDI_10 Pin=XP1-6
+Added Pin To Net: NetName=IDI_12 Pin=XP1-7
+Added Pin To Net: NetName=IDI_14 Pin=XP1-8
+Added Pin To Net: NetName=E.GND1 Pin=XP1-9
+Added Pin To Net: NetName=IDO_0 Pin=XP1-11
+Added Pin To Net: NetName=IDO_2 Pin=XP1-12
+Added Pin To Net: NetName=IDO_4 Pin=XP1-13
+Added Pin To Net: NetName=IDO_6 Pin=XP1-14
+Added Pin To Net: NetName=IDO_8 Pin=XP1-15
+Added Pin To Net: NetName=IDO_10 Pin=XP1-16
+Added Pin To Net: NetName=IDO_12 Pin=XP1-17
+Added Pin To Net: NetName=IDO_14 Pin=XP1-18
+Added Pin To Net: NetName=IDI_1 Pin=XP1-20
+Added Pin To Net: NetName=IDI_3 Pin=XP1-21
+Added Pin To Net: NetName=IDI_5 Pin=XP1-22
+Added Pin To Net: NetName=IDI_7 Pin=XP1-23
+Added Pin To Net: NetName=IDI_9 Pin=XP1-24
+Added Pin To Net: NetName=IDI_11 Pin=XP1-25
+Added Pin To Net: NetName=IDI_13 Pin=XP1-26
+Added Pin To Net: NetName=IDI_15 Pin=XP1-27
+Added Pin To Net: NetName=E.GND2 Pin=XP1-28
+Added Pin To Net: NetName=GND Pin=XP1-29
+Added Pin To Net: NetName=IDO_1 Pin=XP1-30
+Added Pin To Net: NetName=IDO_3 Pin=XP1-31
+Added Pin To Net: NetName=IDO_5 Pin=XP1-32
+Added Pin To Net: NetName=IDO_7 Pin=XP1-33
+Added Pin To Net: NetName=IDO_9 Pin=XP1-34
+Added Pin To Net: NetName=IDO_11 Pin=XP1-35
+Added Pin To Net: NetName=IDO_13 Pin=XP1-36
+Added Pin To Net: NetName=IDO_15 Pin=XP1-37
+Add Pin To Net: Unknown Pin: Pin XP2-1
+Add Pin To Net: Unknown Pin: Pin XP2-2
+Add Class Member: Failed to add class member : Component PS1 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS2 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS3 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS4 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS5 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS6 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS7 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS8 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS9 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS10 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS11 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS12 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS13 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS14 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS15 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component PS16 MF-SMDF050-2
+Add Class Member: Failed to add class member : Component TVS1 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS2 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS3 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS4 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS5 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS6 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS7 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS8 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS9 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS10 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS11 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS12 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS13 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS14 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS15 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS16 SMBJ16A
+Add Class Member: Failed to add class member : Component U1 LTV-357
+Add Class Member: Failed to add class member : Component U2 LTV-357
+Add Class Member: Failed to add class member : Component U3 LTV-357
+Add Class Member: Failed to add class member : Component U4 LTV-357
+Add Class Member: Failed to add class member : Component U5 LTV-357
+Add Class Member: Failed to add class member : Component U6 LTV-357
+Add Class Member: Failed to add class member : Component U7 LTV-357
+Add Class Member: Failed to add class member : Component U8 LTV-357
+Add Class Member: Failed to add class member : Component U9 LTV-357
+Add Class Member: Failed to add class member : Component U10 LTV-357
+Add Class Member: Failed to add class member : Component U11 LTV-357
+Add Class Member: Failed to add class member : Component U12 LTV-357
+Add Class Member: Failed to add class member : Component U13 LTV-357
+Add Class Member: Failed to add class member : Component U14 LTV-357
+Add Class Member: Failed to add class member : Component U15 LTV-357
+Add Class Member: Failed to add class member : Component U16 LTV-357
+Add Class Member: Failed to add class member : Component U17 AM1D-1212SH
+Add Class Member: Failed to add class member : Component U18 LTV-357
+Add Class Member: Failed to add class member : Component U19 LTV-357
+Add Class Member: Failed to add class member : Component U20 LTV-357
+Add Class Member: Failed to add class member : Component U21 LTV-357
+Add Class Member: Failed to add class member : Component U22 LTV-357
+Add Class Member: Failed to add class member : Component U23 LTV-357
+Add Class Member: Failed to add class member : Component U24 LTV-357
+Add Class Member: Failed to add class member : Component U25 LTV-357
+Add Class Member: Failed to add class member : Component U26 LTV-357
+Add Class Member: Failed to add class member : Component U27 LTV-357
+Add Class Member: Failed to add class member : Component U28 LTV-357
+Add Class Member: Failed to add class member : Component U29 LTV-357
+Add Class Member: Failed to add class member : Component U30 LTV-357
+Add Class Member: Failed to add class member : Component U31 LTV-357
+Add Class Member: Failed to add class member : Component U32 LTV-357
+Add Class Member: Failed to add class member : Component U33 LTV-357
+Add Class Member: Failed to add class member : Component U34 CD74HC
+Add Class Member: Failed to add class member : Component U35 74HC595
+Add Class Member: Failed to add class member : Component U36 74HC595
+Add Class Member: Failed to add class member : Component VD1 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD2 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD3 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD4 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD5 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD6 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD7 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD8 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD9 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD10 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD11 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD12 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD13 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD14 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD15 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VD16 CG0603MLC-24LEA
+Add Class Member: Failed to add class member : Component VT1 NX7002
+Add Class Member: Failed to add class member : Component VT2 NX7002
+Add Class Member: Failed to add class member : Component VT3 NX7002
+Add Class Member: Failed to add class member : Component VT4 NX7002
+Add Class Member: Failed to add class member : Component VT5 NX7002
+Add Class Member: Failed to add class member : Component VT6 NX7002
+Add Class Member: Failed to add class member : Component VT7 NX7002
+Add Class Member: Failed to add class member : Component VT8 NX7002
+Add Class Member: Failed to add class member : Component VT9 NX7002
+Add Class Member: Failed to add class member : Component VT10 NX7002
+Add Class Member: Failed to add class member : Component VT11 NX7002
+Add Class Member: Failed to add class member : Component VT12 NX7002
+Add Class Member: Failed to add class member : Component VT13 NX7002
+Add Class Member: Failed to add class member : Component VT14 NX7002
+Add Class Member: Failed to add class member : Component VT15 NX7002
+Add Class Member: Failed to add class member : Component VT16 NX7002
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component XP1 DRB-37FA(DS1037-37F)
+Add Class Member: Failed to add class member : Component XP2 KLS2-301R-5.00-02P-2S (DG301R-5.0-02P-12)
