@@ -133,86 +133,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWHQRHZA
 
-[GeneratedDocument1]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=..\..\REV 0.0\TU\Project Outputs for TU_PRJ\TU_PCB.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -226,7 +146,7 @@ ConfigurationType=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -337,7 +257,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -432,7 +352,7 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -454,7 +374,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -530,7 +450,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -593,7 +513,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -701,7 +621,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -745,7 +665,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -811,7 +731,7 @@ OutputDefault12=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
