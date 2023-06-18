@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=OUT_9 Pin=K17-5
+Removed Pin From Net: NetName=OUT_10 Pin=K18-5
+Removed Pin From Net: NetName=OUT_11 Pin=K19-5
+Removed Pin From Net: NetName=OUT_12 Pin=K20-5
+Removed Pin From Net: NetName=OUT_13 Pin=K21-5
+Removed Pin From Net: NetName=OUT_14 Pin=K22-5
+Removed Pin From Net: NetName=OUT_15 Pin=K23-5
+Removed Pin From Net: NetName=OUT_16 Pin=K24-5
+Removed Pin From Net: NetName=tu_9 Pin=R49-1
+Removed Pin From Net: NetName=tu_10 Pin=R52-1
+Removed Pin From Net: NetName=tu_11 Pin=R55-1
+Removed Pin From Net: NetName=tu_12 Pin=R58-1
+Removed Pin From Net: NetName=tu_13 Pin=R61-1
+Removed Pin From Net: NetName=tu_14 Pin=R64-1
+Removed Pin From Net: NetName=tu_15 Pin=R67-1
+Removed Pin From Net: NetName=tu_16 Pin=R70-1
+Removed Pin From Net: NetName=tu_9 Pin=U18-1
+Removed Pin From Net: NetName=tu_10 Pin=U19-1
+Removed Pin From Net: NetName=tu_11 Pin=U20-1
+Removed Pin From Net: NetName=tu_12 Pin=U21-1
+Removed Pin From Net: NetName=tu_13 Pin=U22-1
+Removed Pin From Net: NetName=tu_14 Pin=U23-1
+Removed Pin From Net: NetName=tu_15 Pin=U24-1
+Removed Pin From Net: NetName=tu_16 Pin=U25-1
+Add Component: Footprint Not Found AM1D-1212SH
+Add Component: Footprint Not Found 74HC595
+Add Component: Footprint Not Found 74HC595
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Add Pin To Net: Unknown Pin: Pin U35-1
+Add Pin To Net: Unknown Pin: Pin U35-2
+Add Pin To Net: Unknown Pin: Pin U35-3
+Add Pin To Net: Unknown Pin: Pin U35-4
+Add Pin To Net: Unknown Pin: Pin U35-5
+Add Pin To Net: Unknown Pin: Pin U35-6
+Add Pin To Net: Unknown Pin: Pin U35-7
+Add Pin To Net: Unknown Pin: Pin U35-8
+Add Pin To Net: Unknown Pin: Pin U35-10
+Add Pin To Net: Unknown Pin: Pin U35-11
+Add Pin To Net: Unknown Pin: Pin U35-12
+Add Pin To Net: Unknown Pin: Pin U35-13
+Add Pin To Net: Unknown Pin: Pin U35-14
+Add Pin To Net: Unknown Pin: Pin U35-15
+Add Pin To Net: Unknown Pin: Pin U35-16
+Add Pin To Net: Unknown Pin: Pin U36-1
+Add Pin To Net: Unknown Pin: Pin U36-2
+Add Pin To Net: Unknown Pin: Pin U36-3
+Add Pin To Net: Unknown Pin: Pin U36-4
+Add Pin To Net: Unknown Pin: Pin U36-5
+Add Pin To Net: Unknown Pin: Pin U36-6
+Add Pin To Net: Unknown Pin: Pin U36-7
+Add Pin To Net: Unknown Pin: Pin U36-8
+Add Pin To Net: Unknown Pin: Pin U36-10
+Add Pin To Net: Unknown Pin: Pin U36-11
+Add Pin To Net: Unknown Pin: Pin U36-12
+Add Pin To Net: Unknown Pin: Pin U36-13
+Add Pin To Net: Unknown Pin: Pin U36-14
+Add Pin To Net: Unknown Pin: Pin U36-15
+Add Pin To Net: Unknown Pin: Pin U36-16
+Added Pin To Net: NetName=OUT_17 Pin=K17-5
+Added Net: Name=OUT_17
+Added Pin To Net: NetName=OUT_18 Pin=K18-5
+Added Net: Name=OUT_18
+Added Pin To Net: NetName=OUT_19 Pin=K19-5
+Added Net: Name=OUT_19
+Added Pin To Net: NetName=OUT_20 Pin=K20-5
+Added Net: Name=OUT_20
+Added Pin To Net: NetName=OUT_21 Pin=K21-5
+Added Net: Name=OUT_21
+Added Pin To Net: NetName=OUT_22 Pin=K22-5
+Added Net: Name=OUT_22
+Added Pin To Net: NetName=OUT_23 Pin=K23-5
+Added Net: Name=OUT_23
+Added Pin To Net: NetName=OUT_24 Pin=K24-5
+Added Net: Name=OUT_24
+Added Pin To Net: NetName=tu_17 Pin=R49-1
+Added Pin To Net: NetName=tu_17 Pin=U18-1
+Added Net: Name=tu_17
+Added Pin To Net: NetName=tu_18 Pin=R52-1
+Added Pin To Net: NetName=tu_18 Pin=U19-1
+Added Net: Name=tu_18
+Added Pin To Net: NetName=tu_19 Pin=R55-1
+Added Pin To Net: NetName=tu_19 Pin=U20-1
+Added Net: Name=tu_19
+Added Pin To Net: NetName=tu_20 Pin=R58-1
+Added Pin To Net: NetName=tu_20 Pin=U21-1
+Added Net: Name=tu_20
+Added Pin To Net: NetName=tu_21 Pin=R61-1
+Added Pin To Net: NetName=tu_21 Pin=U22-1
+Added Net: Name=tu_21
+Added Pin To Net: NetName=tu_22 Pin=R64-1
+Added Pin To Net: NetName=tu_22 Pin=U23-1
+Added Net: Name=tu_22
+Added Pin To Net: NetName=tu_23 Pin=R67-1
+Added Pin To Net: NetName=tu_23 Pin=U24-1
+Added Net: Name=tu_23
+Added Pin To Net: NetName=tu_24 Pin=R70-1
+Added Pin To Net: NetName=tu_24 Pin=U25-1
+Added Net: Name=tu_24
+Add Class Member: Failed to add class member : Component U17 AM1D-1212SH
+Add Class Member: Failed to add class member : Component U35 74HC595
+Add Class Member: Failed to add class member : Component U36 74HC595
